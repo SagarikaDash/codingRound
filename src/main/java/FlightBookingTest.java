@@ -56,6 +56,7 @@ public class FlightBookingTest {
 
     }
 
+    
 
     private void waitFor(int durationInMilliSeconds) {
         try {
@@ -86,5 +87,5 @@ public class FlightBookingTest {
             System.setProperty("webdriver.chrome.driver", "chromedriver_linux");
         }
     }
-}
+}//i m doing 2nd change
 //just for testing
